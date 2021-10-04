@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Annisa Callystha
+- 👋 Hi, My name is Callystha
 - 👀 I’m interested in Data Science and Creative Work
 - 🌱 I’m currently learning Python for data science and Music production
 - 💞️ I’m looking to collaborate on data analysis projects
